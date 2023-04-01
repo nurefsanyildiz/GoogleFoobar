@@ -30,28 +30,28 @@ I had coded my solutions in python and uploaded them for educational purposes on
 
 :milky_way: **Level 1**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solar Doomsday
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solar Doomsday](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%201/Challenge%201%20-%20Solar%20Doomsday)
 
 :milky_way: **Level 2**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey, I Already Did That!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hey, I Already Did That!](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%202/Challenge%202%20-%20Hey%2C%20I%20Already%20Did%20That!)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En Route Salute
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[En Route Salute](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%202/Challenge%203%20-%20En%20Route%20Salute)
 
 :milky_way: **Level 3**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bomb, Baby!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bomb, Baby!](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%203/Challenge%204%20-%20Bomb%2C%20Baby!)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Doomsday Fuel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Doomsday Fuel](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%203/Challenge%205%20-%20Doomsday%20Fuel)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Grandest Staircase Of Them All
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Grandest Staircase Of Them All](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%203/Challenge%206%20-%20The%20Grandest%20Staircase%20Of%20Them%20All)
 
 :milky_way: **Level 4**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free the Bunny Workers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Free the Bunny Workers](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%204/Challenge%207%20-%20Free%20the%20Bunny%20Workers)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escape Pods
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Escape Pods](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%204/Challenge%208%20-%20Escape%20Pods)
 
 :milky_way: **Level 5**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dodge the Lasers!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dodge the Lasers!](https://github.com/nurefsanyildiz/GoogleFoobar/tree/main/Level%205/Challenge%209%20-%20Dodge%20the%20Lasers!)
